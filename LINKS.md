@@ -1,5 +1,5 @@
 # Projects (sorted by complexity)
-List of projects i have exported:
+List of projects i have worked on:
 
 https://github.com/SirFischer/Skeletons-and-Traps
 
