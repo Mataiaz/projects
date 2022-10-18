@@ -3,7 +3,7 @@ List of projects i have worked on:
 
 SFML, game:         https://github.com/SirFischer/Skeletons-and-Traps
 
-Java Web crawler:               https://github.com/Mataiaz/Website_Crawler
+Java web crawler:               https://github.com/Mataiaz/Website_Crawler
 
 Javascript(React), website:  https://github.com/Mataiaz/mycv/tree/master
 
