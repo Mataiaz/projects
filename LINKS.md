@@ -11,7 +11,7 @@ Javascript/jquery(Noroff school semester project)
 https://github.com/Mataiaz/Mathias_Bjarnason_sp1
 
 
-Java web crawler:               
+Java website crawler:               
 
 https://github.com/Mataiaz/Website_Crawler
 
