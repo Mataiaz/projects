@@ -1,4 +1,4 @@
-# List of projects i have worked on:#
+# List of projects i have worked on
 
 Javascript(React), website:  https://github.com/Mataiaz/mycv/tree/master
 
