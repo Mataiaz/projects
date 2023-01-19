@@ -29,6 +29,6 @@ https://github.com/Mataiaz/java_crawler
 
 
 
-Dart(Flutter), mobile app:    
+Dart(Flutter), desktop app:    
 
 https://github.com/Mataiaz/My-Demo-App
