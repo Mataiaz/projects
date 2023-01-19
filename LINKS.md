@@ -5,6 +5,11 @@ Javascript(React), website
 https://github.com/Mataiaz/mycv/tree/master
 
 
+Javascript/jquery(Noroff school semester project)
+
+
+https://github.com/Mataiaz/Mathias_Bjarnason_sp1
+
 
 Java web crawler:               
 
